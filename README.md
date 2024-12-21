@@ -28,7 +28,7 @@ This project is a web scraper that extracts information from the LeetCode Study 
 1. Clone the repository or download the script.
 2. Run the script:
    ```
-   python scraper.py
+   python scrap_leetcode.py
    ```
 3. The script will scrape the problem data from the LeetCode page and save it as an Excel file in the `results` directory. The filename will be based on the theme (e.g., `Graph Theory.xlsx`).
 
