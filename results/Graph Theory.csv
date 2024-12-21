@@ -1,0 +1,37 @@
+Index,Name,Theme,Difficulty
+547,Number of Provinces,Standard Traversal,Medium
+802,Find Eventual Safe States,Standard Traversal,Medium
+841,Keys and Rooms,Standard Traversal,Medium
+1129,Shortest Path with Alternating Colors,Standard Traversal,Medium
+1376,Time Needed to Inform All Employees,Standard Traversal,Medium
+1466,Reorder Routes to Make All Paths Lead to the City Zero,Standard Traversal,Medium
+797,All Paths From Source to Target,Standard Traversal,Medium
+1192,Critical Connections in a Network,Standard Traversal,Hard
+1926,Nearest Exit from Entrance in Maze,BFS,Medium
+934,Shortest Bridge,BFS,Medium
+433,Minimum Genetic Mutation,BFS,Medium
+127,Word Ladder,BFS,Hard
+1306,Jump Game III,BFS,Medium
+542,01 Matrix,BFS,Medium
+1091,Shortest Path in Binary Matrix,BFS,Medium
+863,All Nodes Distance K in Binary Tree,BFS,Medium
+864,Shortest Path to Get All Keys,BFS,Hard
+200,Number of Islands,Matrix Graphs,Medium
+1020,Number of Enclaves,Matrix Graphs,Medium
+1254,Number of Closed Islands,Matrix Graphs,Medium
+695,Max Area of Island,Matrix Graphs,Medium
+417,Pacific Atlantic Water Flow,Matrix Graphs,Medium
+997,Find the Town Judge,Graph Theory,Easy
+1557,Minimum Number of Vertices to Reach All Nodes,Graph Theory,Medium
+1615,Maximal Network Rank,Graph Theory,Medium
+785,Is Graph Bipartite?,Graph Theory,Medium
+261,Graph Valid Tree,Graph Theory,Medium
+721,Accounts Merge,Union Find / DSU,Medium
+990,Satisfiability of Equality Equations,Union Find / DSU,Medium
+1061,Lexicographically Smallest Equivalent String,Union Find / DSU,Medium
+839,Similar String Groups,Union Find / DSU,Hard
+207,Course Schedule,Topological Sort,Medium
+210,Course Schedule II,Topological Sort,Medium
+269,Alien Dictionary,Topological Sort,Hard
+1203,Sort Items by Groups Respecting Dependencies,Topological Sort,Hard
+1857,Largest Color Value in a Directed Graph,Topological Sort,Hard

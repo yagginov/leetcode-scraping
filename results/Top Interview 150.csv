@@ -1,0 +1,151 @@
+Index;Name;Theme;Difficulty
+88;Merge Sorted Array;Array / String;Easy
+27;Remove Element;Array / String;Easy
+26;Remove Duplicates from Sorted Array;Array / String;Easy
+80;Remove Duplicates from Sorted Array II;Array / String;Medium
+169;Majority Element;Array / String;Easy
+189;Rotate Array;Array / String;Medium
+121;Best Time to Buy and Sell Stock;Array / String;Easy
+122;Best Time to Buy and Sell Stock II;Array / String;Medium
+55;Jump Game;Array / String;Medium
+45;Jump Game II;Array / String;Medium
+274;H-Index;Array / String;Medium
+380;Insert Delete GetRandom O(1);Array / String;Medium
+238;Product of Array Except Self;Array / String;Medium
+134;Gas Station;Array / String;Medium
+135;Candy;Array / String;Hard
+42;Trapping Rain Water;Array / String;Hard
+13;Roman to Integer;Array / String;Easy
+12;Integer to Roman;Array / String;Medium
+58;Length of Last Word;Array / String;Easy
+14;Longest Common Prefix;Array / String;Easy
+151;Reverse Words in a String;Array / String;Medium
+6;Zigzag Conversion;Array / String;Medium
+28;Find the Index of the First Occurrence in a String;Array / String;Easy
+68;Text Justification;Array / String;Hard
+125;Valid Palindrome;Two Pointers;Easy
+392;Is Subsequence;Two Pointers;Easy
+167;Two Sum II - Input Array Is Sorted;Two Pointers;Medium
+11;Container With Most Water;Two Pointers;Medium
+15;3Sum;Two Pointers;Medium
+209;Minimum Size Subarray Sum;Sliding Window;Medium
+3;Longest Substring Without Repeating Characters;Sliding Window;Medium
+30;Substring with Concatenation of All Words;Sliding Window;Hard
+76;Minimum Window Substring;Sliding Window;Hard
+36;Valid Sudoku;Matrix;Medium
+54;Spiral Matrix;Matrix;Medium
+48;Rotate Image;Matrix;Medium
+73;Set Matrix Zeroes;Matrix;Medium
+289;Game of Life;Matrix;Medium
+383;Ransom Note;Hashmap;Easy
+205;Isomorphic Strings;Hashmap;Easy
+290;Word Pattern;Hashmap;Easy
+242;Valid Anagram;Hashmap;Easy
+49;Group Anagrams;Hashmap;Medium
+1;Two Sum;Hashmap;Easy
+202;Happy Number;Hashmap;Easy
+219;Contains Duplicate II;Hashmap;Easy
+128;Longest Consecutive Sequence;Hashmap;Medium
+228;Summary Ranges;Intervals;Easy
+56;Merge Intervals;Intervals;Medium
+57;Insert Interval;Intervals;Medium
+452;Minimum Number of Arrows to Burst Balloons;Intervals;Medium
+20;Valid Parentheses;Stack;Easy
+71;Simplify Path;Stack;Medium
+155;Min Stack;Stack;Medium
+150;Evaluate Reverse Polish Notation;Stack;Medium
+224;Basic Calculator;Stack;Hard
+141;Linked List Cycle;Linked List;Easy
+2;Add Two Numbers;Linked List;Medium
+21;Merge Two Sorted Lists;Linked List;Easy
+138;Copy List with Random Pointer;Linked List;Medium
+92;Reverse Linked List II;Linked List;Medium
+25;Reverse Nodes in k-Group;Linked List;Hard
+19;Remove Nth Node From End of List;Linked List;Medium
+82;Remove Duplicates from Sorted List II;Linked List;Medium
+61;Rotate List;Linked List;Medium
+86;Partition List;Linked List;Medium
+146;LRU Cache;Linked List;Medium
+104;Maximum Depth of Binary Tree;Binary Tree General;Easy
+100;Same Tree;Binary Tree General;Easy
+226;Invert Binary Tree;Binary Tree General;Easy
+101;Symmetric Tree;Binary Tree General;Easy
+105;Construct Binary Tree from Preorder and Inorder Traversal;Binary Tree General;Medium
+106;Construct Binary Tree from Inorder and Postorder Traversal;Binary Tree General;Medium
+117;Populating Next Right Pointers in Each Node II;Binary Tree General;Medium
+114;Flatten Binary Tree to Linked List;Binary Tree General;Medium
+112;Path Sum;Binary Tree General;Easy
+129;Sum Root to Leaf Numbers;Binary Tree General;Medium
+124;Binary Tree Maximum Path Sum;Binary Tree General;Hard
+173;Binary Search Tree Iterator;Binary Tree General;Medium
+222;Count Complete Tree Nodes;Binary Tree General;Easy
+236;Lowest Common Ancestor of a Binary Tree;Binary Tree General;Medium
+199;Binary Tree Right Side View;Binary Tree BFS;Medium
+637;Average of Levels in Binary Tree;Binary Tree BFS;Easy
+102;Binary Tree Level Order Traversal;Binary Tree BFS;Medium
+103;Binary Tree Zigzag Level Order Traversal;Binary Tree BFS;Medium
+530;Minimum Absolute Difference in BST;Binary Search Tree;Easy
+230;Kth Smallest Element in a BST;Binary Search Tree;Medium
+98;Validate Binary Search Tree;Binary Search Tree;Medium
+200;Number of Islands;Graph General;Medium
+130;Surrounded Regions;Graph General;Medium
+133;Clone Graph;Graph General;Medium
+399;Evaluate Division;Graph General;Medium
+207;Course Schedule;Graph General;Medium
+210;Course Schedule II;Graph General;Medium
+909;Snakes and Ladders;Graph BFS;Medium
+433;Minimum Genetic Mutation;Graph BFS;Medium
+127;Word Ladder;Graph BFS;Hard
+208;Implement Trie (Prefix Tree);Trie;Medium
+211;Design Add and Search Words Data Structure;Trie;Medium
+212;Word Search II;Trie;Hard
+17;Letter Combinations of a Phone Number;Backtracking;Medium
+77;Combinations;Backtracking;Medium
+46;Permutations;Backtracking;Medium
+39;Combination Sum;Backtracking;Medium
+52;N-Queens II;Backtracking;Hard
+22;Generate Parentheses;Backtracking;Medium
+79;Word Search;Backtracking;Medium
+108;Convert Sorted Array to Binary Search Tree;Divide & Conquer;Easy
+148;Sort List;Divide & Conquer;Medium
+427;Construct Quad Tree;Divide & Conquer;Medium
+23;Merge k Sorted Lists;Divide & Conquer;Hard
+53;Maximum Subarray;Kadane's Algorithm;Medium
+918;Maximum Sum Circular Subarray;Kadane's Algorithm;Medium
+35;Search Insert Position;Binary Search;Easy
+74;Search a 2D Matrix;Binary Search;Medium
+162;Find Peak Element;Binary Search;Medium
+33;Search in Rotated Sorted Array;Binary Search;Medium
+34;Find First and Last Position of Element in Sorted Array;Binary Search;Medium
+153;Find Minimum in Rotated Sorted Array;Binary Search;Medium
+4;Median of Two Sorted Arrays;Binary Search;Hard
+215;Kth Largest Element in an Array;Heap;Medium
+502;IPO;Heap;Hard
+373;Find K Pairs with Smallest Sums;Heap;Medium
+295;Find Median from Data Stream;Heap;Hard
+67;Add Binary;Bit Manipulation;Easy
+190;Reverse Bits;Bit Manipulation;Easy
+191;Number of 1 Bits;Bit Manipulation;Easy
+136;Single Number;Bit Manipulation;Easy
+137;Single Number II;Bit Manipulation;Medium
+201;Bitwise AND of Numbers Range;Bit Manipulation;Medium
+9;Palindrome Number;Math;Easy
+66;Plus One;Math;Easy
+172;Factorial Trailing Zeroes;Math;Medium
+69;Sqrt(x);Math;Easy
+50;Pow(x, n);Math;Medium
+149;Max Points on a Line;Math;Hard
+70;Climbing Stairs;1D DP;Easy
+198;House Robber;1D DP;Medium
+139;Word Break;1D DP;Medium
+322;Coin Change;1D DP;Medium
+300;Longest Increasing Subsequence;1D DP;Medium
+120;Triangle;Multidimensional DP;Medium
+64;Minimum Path Sum;Multidimensional DP;Medium
+63;Unique Paths II;Multidimensional DP;Medium
+5;Longest Palindromic Substring;Multidimensional DP;Medium
+97;Interleaving String;Multidimensional DP;Medium
+72;Edit Distance;Multidimensional DP;Medium
+123;Best Time to Buy and Sell Stock III;Multidimensional DP;Hard
+188;Best Time to Buy and Sell Stock IV;Multidimensional DP;Hard
+221;Maximal Square;Multidimensional DP;Medium
